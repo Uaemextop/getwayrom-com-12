@@ -6838,3 +6838,1029 @@ curl -L -o 'backup.zip' \
 
 # ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
 
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/archive.zip
+curl -L -o 'archive.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/archive.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'archive.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/archive.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/old.zip
+curl -L -o 'old.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/old.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'old.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/old.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/temp.zip
+curl -L -o 'temp.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/temp.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'temp.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/temp.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/test.zip
+curl -L -o 'test.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/test.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'test.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/test.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/public.zip
+curl -L -o 'public.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/public.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'public.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/public.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.rar
+curl -L -o 'backup.rar' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.rar'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.rar' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.rar'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/www.zip
+curl -L -o 'www.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/www.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'www.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/www.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.7z
+curl -L -o 'backup.7z' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.7z'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.7z' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.7z'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.zip
+curl -L -o 'backup.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/js/backup.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/temp.zip
+curl -L -o 'temp.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/temp.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'temp.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/temp.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/test.zip
+curl -L -o 'test.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/test.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'test.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/test.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/archive.zip
+curl -L -o 'archive.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/archive.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'archive.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/archive.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/old.zip
+curl -L -o 'old.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/old.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'old.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/old.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/public.zip
+curl -L -o 'public.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/public.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'public.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/public.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/www.zip
+curl -L -o 'www.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/www.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'www.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/www.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.7z
+curl -L -o 'backup.7z' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.7z'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.7z' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.7z'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.rar
+curl -L -o 'backup.rar' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.rar'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.rar' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.rar'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.zip
+curl -L -o 'backup.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/assets/css/backup.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/test.zip
+curl -L -o 'test.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/test.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'test.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/test.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/temp.zip
+curl -L -o 'temp.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/temp.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'temp.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/temp.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/archive.zip
+curl -L -o 'archive.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/archive.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'archive.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/archive.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/www.zip
+curl -L -o 'www.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/www.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'www.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/www.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/public.zip
+curl -L -o 'public.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/public.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'public.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/public.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/old.zip
+curl -L -o 'old.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/old.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'old.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/old.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.rar
+curl -L -o 'backup.rar' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.rar'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.rar' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.rar'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/test.zip
+curl -L -o 'test.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/test.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'test.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/test.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.zip
+curl -L -o 'backup.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.7z
+curl -L -o 'backup.7z' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.7z'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.7z' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/vendor/backup.7z'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/test.zip
+curl -L -o 'test.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/test.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'test.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/test.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/old.zip
+curl -L -o 'old.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/old.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'old.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/old.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/www.zip
+curl -L -o 'www.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/www.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'www.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/www.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/www.zip
+curl -L -o 'www.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/www.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'www.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/www.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/public.zip
+curl -L -o 'public.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/public.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'public.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/public.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/public.zip
+curl -L -o 'public.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/public.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'public.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/public.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.zip
+curl -L -o 'backup.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.rar
+curl -L -o 'backup.rar' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.rar'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.rar' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.rar'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/temp.zip
+curl -L -o 'temp.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/temp.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'temp.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/temp.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.zip
+curl -L -o 'backup.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/old.zip
+curl -L -o 'old.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/old.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'old.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/old.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.7z
+curl -L -o 'backup.7z' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.7z'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.7z' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.7z'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/archive.zip
+curl -L -o 'archive.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/archive.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'archive.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/archive.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.rar
+curl -L -o 'backup.rar' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.rar'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.rar' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/backup.rar'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/temp.zip
+curl -L -o 'temp.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/temp.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'temp.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/css/temp.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/archive.zip
+curl -L -o 'archive.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/archive.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'archive.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/archive.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.7z
+curl -L -o 'backup.7z' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.7z'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.7z' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/images/logo/assets/js/backup.7z'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/archive.zip
+curl -L -o 'archive.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/archive.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'archive.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/archive.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/public.zip
+curl -L -o 'public.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/public.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'public.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/public.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/old.zip
+curl -L -o 'old.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/old.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'old.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/old.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.zip
+curl -L -o 'backup.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.rar
+curl -L -o 'backup.rar' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.rar'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.rar' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.rar'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/test.zip
+curl -L -o 'test.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/test.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'test.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/test.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/temp.zip
+curl -L -o 'temp.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/temp.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'temp.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/temp.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.7z
+curl -L -o 'backup.7z' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.7z'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'backup.7z' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/backup.7z'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
+# https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/www.zip
+curl -L -o 'www.zip' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \
+  -H 'Accept-Language: en-US,en;q=0.9,es;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Pragma: no-cache' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/www.zip'
+
+# wget alternative:
+# wget --header='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0' --header='Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' --header='Accept-Language: en-US,en;q=0.9,es;q=0.8' --header='Cache-Control: no-cache' --header='Pragma: no-cache' --header='Sec-Fetch-Dest: document' --header='Sec-Fetch-Mode: navigate' --header='Sec-Fetch-Site: none' --header='Sec-Fetch-User: ?1' --header='Upgrade-Insecure-Requests: 1' -O 'www.zip' 'https://getwayrom.com/product/3/assets/js/assets/images/logo/assets/js/assets/css/assets/images/logo/www.zip'
+
+# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─# ─
+
